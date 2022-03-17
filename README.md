@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohkihyeon&show_icons=true&theme=vue)
